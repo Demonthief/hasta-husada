@@ -1,0 +1,1 @@
+import{_ as a,c as t,a as n,t as r,o as s}from"./index-DQf9pqpj.js";const o={__name:"HeaderPelayanan",props:["title"],setup(e){return(c,l)=>(s(),t("header",null,[n("h1",null,r(e.title),1)]))}},p=a(o,[["__scopeId","data-v-66f5817d"]]);export{p as H};
